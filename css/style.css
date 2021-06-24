@@ -46,17 +46,17 @@ li {
 
 /*--固定背景01--*/
 .img.img1 {
-    background-image: url('../img/menu.jpg');
+    background-image: url('../img/cupcakes-973033_1920.jpg');
 }
 
 /*--固定背景02--*/
 .img.img2 {
-    background-image: url('../img/about.jpg');
+    background-image: url('../img/coffee-beans-2258839_1920.jpg');
 }
 
 /*--固定背景03--*/
 .img.img3 {
-    background-image: url('../img/NVpIM2ptOHhYRzVmUk5rM1NrNlFxYVV6enV4aGk2UFRJMmxPckdDUUVNWkZxSE5NQnhOYTVPK0lPeU1SWTNwazFobnVkUUMzWTlYWTlLb2hSbCtiemZKNVJoQTFwOFRvbmNhUDZLOEFOUzJGaEJrbitwT20wRk1UczMwZEpJVDBEWkZEZURHNWdjOEZ1eTRwMWY5T0IwYXJHRlMrQlJweTZJZzBPYzNRMTdNUGdTeFROejA.jpeg');
+    background-image: url('../img/cafe-3537801_1920.jpg');
 }
 
 .title {
@@ -85,7 +85,7 @@ li {
 }
 
 #header {
-    background-image: url("../img/20191013_020.jpg");
+    background-image: url("../img/neon-sign-4343663_1920.jpg");
     background-size: cover;
     height: 120vh;
     text-align: center;
@@ -105,19 +105,6 @@ li {
 #header li {
     margin: 0 15px;
 }
-
-
-
-#header h1.title {
-    font-size: 10em;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    -moz-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-}
-
 
 #menu {
     margin-top: 10px;
@@ -230,10 +217,6 @@ li {
 @media screen and (max-width:750px) {
     html {
         font-size: 10px;
-    }
-
-    .title {
-        color: #fff;
     }
 
     #header ul {
