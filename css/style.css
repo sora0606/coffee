@@ -40,7 +40,7 @@ li {
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top;
     z-index: 2;
 }
 
@@ -87,6 +87,7 @@ li {
 #header {
     background-image: url("../img/neon-sign-4343663_1920.jpg");
     background-size: cover;
+    background-position: center;
     height: 120vh;
     text-align: center;
     z-index: 10;
