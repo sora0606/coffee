@@ -234,6 +234,10 @@ li {
         height: fit-content;
     }
 
+    .img {
+        background-attachment: relative;
+    }
+
     #menu .menu-text {
         width: 40%;
         z-index: 10;
